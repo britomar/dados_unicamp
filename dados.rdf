@@ -1,0 +1,8 @@
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:feature="https://github.com/britomar/dados_unicamp/blob/master/anuario2017-60814934.xml#">
+<rdf:Description rdf:about="https://github.com/britomar/dados_unicamp/blob/master/anuario2017-60814934.xml">
+<feature:CURSO rdf:resource="https://github.com/britomar/dados_unicamp/blob/master/anuario2017-60814934.xml"/>
+</rdf:Description>
+</rdf:RDF>
+
